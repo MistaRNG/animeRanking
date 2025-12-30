@@ -62,7 +62,7 @@ const animeData = [
     studio: "ufotable",
     format: "Serien + Filme",
     hook: "Ufotable-Optik",
-    note: "Für viele der beste Anime überhaupt, und das liegt ganz klar an ufotable. Story und Figuren sind eher simpel bis generisch, aber dieses Animations-Studio verwandelt alles, was es anfasst, in Gold – eigentlich sollten die einfach jeden Anime machen. Gonpachiro und Co sind hat man eigentlich in dieser Form schon etliche Male gesehen und ohne ufotable wäre Demon Slayer niemals so explodiert. Mein Highlight ist der Movie, der mich mit Abstand am meisten abgeholt hat. Der Anime ist extrem mainstream und teilweise overhyped, aber die Story ist dennoch gut und als Showcase für brachiale Animation, Licht und Kampfchoreos funktioniert er trotzdem sehr gut."
+    note: "Für viele der beste Anime überhaupt, und das liegt ganz klar an ufotable. Story und Figuren sind eher simpel bis generisch, aber dieses Animations-Studio verwandelt alles, was es anfasst, in Gold – eigentlich sollten die einfach jeden Anime machen. Gonpachiro und Co. sind hat man eigentlich in dieser Form schon etliche Male gesehen und ohne ufotable wäre Demon Slayer niemals so explodiert. Mein Highlight ist der Movie, der mich mit Abstand am meisten abgeholt hat. Der Anime ist extrem mainstream und teilweise overhyped, aber die Story ist dennoch gut und als Showcase für brachiale Animation, Licht und Kampfchoreos funktioniert er trotzdem sehr gut."
   },
   {
     place: "13",
