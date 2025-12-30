@@ -62,7 +62,7 @@ const animeData = [
     studio: "ufotable",
     format: "Serien + Filme",
     hook: "Ufotable-Optik",
-    note: "Für viele wohl der beste Anime überhaupt, vor allem wegen der Animation. Story und Figuren sind eher simpel, aber Ufotable verwandelt wirklich alles in Gold – dieser Laden soll bitte alle Anime machen. Ohne Ufotable wäre das Ding wohl nie so durch die Decke gegangen, weil die Charaktere oft generisch wirken. Mein Highlight ist der Movie, der mich bisher am meisten abgeholt hat. Extrem mainstream und teilweise overhyped, wenn man das Wort noch sagen darf, aber dennoch ein sehr guter Anime mit sehr schönen Artstyle."
+    note: "Für viele der beste Anime überhaupt, und das liegt ganz klar an ufotable. Story und Figuren sind eher simpel bis generisch, aber dieses Animations-Studio verwandelt alles, was es anfasst, in Gold – eigentlich sollten die einfach jeden Anime machen. Gonpachiro und Co sind hat man eigentlich in dieser Form schon etliche Male gesehen und ohne ufotable wäre Demon Slayer niemals so explodiert. Mein Highlight ist der Movie, der mich mit Abstand am meisten abgeholt hat. Der Anime ist extrem mainstream und teilweise overhyped, aber die Story ist dennoch gut und als Showcase für brachiale Animation, Licht und Kampfchoreos funktioniert er trotzdem sehr gut."
   },
   {
     place: "13",
@@ -174,7 +174,7 @@ const animeData = [
     studio: "Studio 4°C",
     format: "Filmtrilogie",
     hook: "Manga-Gate",
-    note: "Ich bin Dark-Fantasy-Fan und Berserk ist Meisterklasse des Genres. Die Story ist brachial gut und extrem einflussreich. Das Eclipse-Event hat unzählige Kopien, was viele wohl gar nicht wissen. Sogar Spiele wie Dark Souls sind sehr von Berserk inspiriert. Die Filme sind ganz okay, aber große Warnung: bitte NICHT die Serie schauen. Ufotable als Studio für eine Anime-Umsetzung wäre ein Traum den wohl viele habe, ich würde wahrscheinlich tot umfallen. Der Manga ist der einzige, den ich physisch besitze – der Zeichenstil ist so krank gut, dass man fast jede Seite an die Wand hängen könnte. Schade, dass der Manga noch nicht beendet ist (RIP). Wenn man Berserk mag, kann man sich auch Claymore gönnen."
+    note: "Ich bin Dark-Fantasy-Fan und Berserk ist Meisterklasse des Genres. Die Story ist brachial gut und extrem einflussreich. Das Eclipse-Event hat unzählige Kopien, was viele wohl gar nicht wissen. Sogar Spiele wie Dark Souls sind sehr von Berserk inspiriert. Die Filme sind ganz okay, aber große Warnung: bitte NICHT die Serie schauen. Ufotable als Studio für eine Anime-Umsetzung wäre ein Traum den wohl viele haben, ich würde wahrscheinlich tot umfallen. Der Manga ist der einzige, den ich physisch besitze – der Zeichenstil ist so krank gut, dass man fast jede Seite an die Wand hängen könnte. Schade, dass der Manga noch nicht beendet ist (RIP). Wenn man Berserk mag, kann man sich auch Claymore gönnen."
   },
   {
     place: "5",
