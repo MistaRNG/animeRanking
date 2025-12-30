@@ -125,7 +125,10 @@ tbody,
 .card-image {
   box-shadow: 0 0.31em 0.5em 0 rgba(0, 0, 0, 0.2),
     0 0.186em 0.625em 0 rgba(0, 0, 0, 0.19);
-  max-height: 0;
+  max-height: 420px;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
 }
 .ranking-title {
   max-width: 69em;
@@ -232,4 +235,3 @@ footer {
     max-width: 100%;
   }
 }
-
