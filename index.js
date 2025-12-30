@@ -39,16 +39,16 @@ const animeData = [
   {
     place: "15",
     navLabel: "15",
-    title: "KonoSuba: God's Blessing on this Wonderful World!",
-    image: "images/konosuba.jpg",
+    title: "Mirai Nikki",
+    image: "images/mirai_nikki.jpg",
     summary:
-      "Der chaotischste Isekai-Trupp: ein zynischer Protagonist, eine Explosion-Fanatikerin, eine masochistische Kreuzritterin und eine unfähige Göttin.",
-    year: "2016",
-    genre: "Comedy, Isekai",
-    studio: "Studio Deen",
-    format: "2 Staffeln + Film",
-    hook: "Bester Comedy-Isekai",
-    note: "Für mich unschlagbar, wenn es um Comedy im Isekai-Genre geht. Jeder Gag sitzt, jede Folge ist quotable – perfektes Kontrastprogramm zu düsteren Titeln. Nach einer langen Anime-Pause hat mich KonoSuba wieder zurückgeholt und mein Vertrauen in ein völlig überlaufendes Genre gefixt, das oft nur Müll liefert. Kazuma und seine Chaos-Truppe lassen mich regelmäßig laut lachen, egal wie oft ich einzelne Folgen noch mal anmache, und sogar den Manga zum Prequel habe ich mir reingezogen, weil ich mehr wollte."
+      "Survival-Game mit Tagebüchern aus der Zukunft, einer Yandere-Ikone und einem tödlichen Wettlauf gegen die Zeit.",
+    year: "2011",
+    genre: "Thriller, Mystery",
+    studio: "asread.",
+    format: "26 Episoden",
+    hook: "Yuno Gasai",
+    note: "Einer meiner frühen Anime und der erste, den ich vollständig auf Japanisch geschaut habe. Die Story ist wild, die Spannung hoch – bis heute ein Guilty Pleasure. Es gab noch keinen Battle-Royale oder Hunger Games Hype. Damals wirkte dieses Survival-Spiel richtig frisch: Zwölf Tagebücher mit unterschiedlichen Fähigkeiten, jeder misstraut jedem, ständig wechseln die Allianzen. Yuno ist der Inbegriff einer Yandere-Ikone – süß, besitzergreifend, brandgefährlich – und zieht den Hauptcharakter in ein Katz-und-Maus-Spiel, bei dem es um nichts weniger als die Nachfolge Gottes geht. Mir gefiel, wie der Protagonist vom passiven Beobachter zum Getriebenen wird, während die Welt um ihn herum kippt. Mindgames, plötzliche Wendungen, ein Finale mit Timeline-Twist und Memes, die bis heute leben: Ich hatte selten so viel Spaß an einem so chaotischen Survival-Spiel."
   },
   {
     place: "14",
@@ -95,16 +95,16 @@ const animeData = [
   {
     place: "11",
     navLabel: "11",
-    title: "Mirai Nikki",
-    image: "images/mirai_nikki.jpg",
+    title: "KonoSuba: God's Blessing on this Wonderful World!",
+    image: "images/konosuba.jpg",
     summary:
-      "Survival-Game mit Tagebüchern aus der Zukunft, einer Yandere-Ikone und einem tödlichen Wettlauf gegen die Zeit.",
-    year: "2011",
-    genre: "Thriller, Mystery",
-    studio: "asread.",
-    format: "26 Episoden",
-    hook: "Yuno Gasai",
-    note: "Einer meiner frühen Anime und der erste, den ich vollständig auf Japanisch geschaut habe. Die Story ist wild, die Spannung hoch – bis heute ein Guilty Pleasure. Für die damalige Zeit fühlte sich dieses Future-Diary-Survival-Spiel mit Yuno als Yandere-Ikone ziemlich einzigartig an: Battle Royale mit Tagebüchern, Mindgames und plötzlichen Wendungen. Yuno ist Kult, und ich hatte selten so viel Spaß an einem derart chaotischen Survival-Spiel."
+      "Der chaotischste Isekai-Trupp: ein zynischer Protagonist, eine Explosion-Fanatikerin, eine masochistische Kreuzritterin und eine unfähige Göttin.",
+    year: "2016",
+    genre: "Comedy, Isekai",
+    studio: "Studio Deen",
+    format: "2 Staffeln + Film",
+    hook: "Bester Comedy-Isekai",
+    note: "Für mich unschlagbar, wenn es um Comedy im Isekai-Genre geht. Jeder Gag sitzt, jede Folge ist quotable – perfektes Kontrastprogramm zu düsteren Titeln. Nach einer langen Anime-Pause hat mich KonoSuba wieder zurückgeholt und mein Vertrauen in ein völlig überlaufendes Genre gefixt, das oft nur Müll liefert. Kazuma und seine Chaos-Truppe lassen mich regelmäßig laut lachen, egal wie oft ich einzelne Folgen noch mal anmache, und sogar den Manga zum Prequel habe ich mir reingezogen, weil ich mehr wollte."
   },
   {
     place: "10",
@@ -132,7 +132,7 @@ const animeData = [
     studio: "Studio Bind",
     format: "2 Staffeln (bisher)",
     hook: "Isekai-Blueprint",
-    note: "Aktuelleiner der besten Isekai für mich. Nach einer zweijährigen Anime-Pause hat mich Staffel 1 komplett zurückgeholt und in diese Welt gezogen: glaubwürdige Charaktere, nachvollziehbare Entscheidungen, richtig gute Animation. Staffel 2 dagegen schwächelt – vor allem dieses extrem langweilige Schul-Arc (14 Folgen WTF!) hat mich fast gekillt, auch wenn das Ende wieder spannend wurde. Trotzdem so interessant, dass ich (wie sonst nur bei Re:Zero) zum Light Novel gegriffen habe. So ziemlich alle sind sich einig, dass diese Geschichte als Anime-Umsetzung potenzial hat, sodass Studio Bind extra für diesen Anime gegründet wurde, und es ist schade, dass 90% aller Isekai die guten Zutaten hier ignorieren und nur schlecht kopieren."
+    note: "Aktuell einer der besten Isekai für mich. Nach einer zweijährigen Anime-Pause hat mich Staffel 1 komplett zurückgeholt und in diese Welt gezogen: glaubwürdige Charaktere, nachvollziehbare Entscheidungen, richtig gute Animation. Staffel 2 dagegen schwächelt – vor allem dieses extrem langweilige Schul-Arc (14 Folgen WTF!) hat mich fast gekillt, auch wenn das Ende wieder spannend wurde. Trotzdem so interessant, dass ich (wie sonst nur bei Re:Zero) zum Light Novel gegriffen habe. So ziemlich alle sind sich einig, dass diese Geschichte als Anime-Umsetzung Potenzial hat, sodass Studio Bind extra für diesen Anime gegründet wurde, und es ist schade, dass 90% aller Isekai die guten Zutaten hier ignorieren und nur schlecht kopieren."
   },
   {
     place: "8",
