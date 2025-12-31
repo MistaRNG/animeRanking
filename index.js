@@ -34,7 +34,7 @@ const animeData = [
     studio: "J.C.Staff",
     format: "24 Episoden",
     hook: "Feels & Alltag",
-    note: "Einer meiner ersten Anime (glaube der 4.) und bis heute einer der wenigen Slice-of-Life-Titel, der mich wirklich berührt hat. Rückblickend weiß ich selbst nicht mehr so richtig woran das liegt. Vielleicht hatte ich mich hier noch nicht am Genre satt gesehen, dennoch habe ich ihn als besonder gut und unterhaltend in Erinnerung. Ich habe ihn vor langer Zeit etwa drei Mal gesehen; jedes Mal knüpften die Gefühle von früher wieder an. Dieses Wohnheim-Chaos trifft mich, weil es echte Kreativ-Blockaden, Scheitern und Freundschaft so greifbar macht – und trotzdem herrlich absurd bleibt."
+    note: "Einer meiner ersten Anime (glaube der 4.) und bis heute einer der wenigen Slice-of-Life-Titel, der mich wirklich berührt hat. Rückblickend weiß ich selbst nicht mehr so richtig woran das lag. Vielleicht hatte ich mich hier noch nicht am Genre satt gesehen, dennoch habe ich ihn als besonders gut und unterhaltend in Erinnerung. Ich habe ihn vor langer Zeit etwa drei Mal gesehen; jedes Mal knüpften die Gefühle von früher wieder an. Dieses Wohnheim-Chaos trifft mich, weil es echte Kreativ-Blockaden, Scheitern und Freundschaft so greifbar macht – und trotzdem herrlich absurd bleibt."
   },
   {
     place: "15",
