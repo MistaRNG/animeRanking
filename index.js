@@ -48,7 +48,7 @@ const animeData = [
     studio: "8bit",
     format: "2 Staffeln + Film",
     hook: "Nation-Building",
-    note: "Rimuru ist absurd stark, aber die Serie lebt davon, wie er aus einer zufälligen Monstertruppe eine echte Gesellschaft formt. Ich mag diese Mischung aus leichter Comedy, Politik und gelegentlichen Bossfights. Sobald die Stadt wächst und Allianzen entstehen, macht es richtig Spaß, weil es mehr als nur Kämpfen ist."
+    note: "Ich wollte den Anime anfangs nicht schauen, weil ich keinen Bock auf einen Schleim als Hauptcharakter hatte und mich die Prämisse nicht überzeugt hat. Der Reinkarnationsprozess ist aber überraschend detailliert und hat mich direkt abgeholt. Rimuru ist absurd stark, aber die Serie lebt davon, wie er aus einer zufälligen Monstertruppe eine echte Gesellschaft formt. Ich mag diese Mischung aus leichter Comedy, Politik und gelegentlichen Bossfights. Von Staffel zu Staffel wird der Anime besser, weil die Welt größer wird und die Konflikte interessanter werden. Auch das Power-Scaling ist für mich spannend und gut gelöst, weil neue Kräfte logisch aufgebaut werden und nicht einfach aus dem Nichts kommen."
   },
   {
     place: "17",
@@ -62,7 +62,7 @@ const animeData = [
     studio: "asread.",
     format: "26 Episoden",
     hook: "Yuno Gasai",
-    note: "Einer meiner frühen Anime und der erste, den ich vollständig auf Japanisch geschaut habe. Die Story ist wild, die Spannung hoch – bis heute ein Guilty Pleasure. Es gab noch keinen Battle-Royale oder Hunger Games Hype. Damals wirkte dieses Survival-Spiel richtig frisch: Zwölf Tagebücher mit unterschiedlichen Fähigkeiten, jeder misstraut jedem, ständig wechseln die Allianzen. Yuno ist der Inbegriff einer Yandere-Ikone – süß, besitzergreifend, brandgefährlich – und zieht den Hauptcharakter in ein Katz-und-Maus-Spiel, bei dem es um nichts weniger als die Nachfolge Gottes geht. Mir gefiel, wie der Protagonist vom passiven Beobachter zum Getriebenen wird, während die Welt um ihn herum kippt. Mindgames, plötzliche Wendungen, ein Finale mit Timeline-Twist und Memes, die bis heute leben: Ich hatte selten so viel Spaß an einem so chaotischen Survival-Spiel."
+    note: "Einer meiner frühen Anime und der erste, den ich vollständig auf Japanisch geschaut habe. Die Story ist wild, die Spannung hoch – bis heute ein Titel, den ich gern verteidige. Es gab noch keinen Battle-Royale oder Hunger Games Hype. Damals wirkte dieses Survival-Spiel richtig frisch: Zwölf Tagebücher mit unterschiedlichen Fähigkeiten, jeder misstraut jedem, ständig wechseln die Allianzen. Yuno ist der Inbegriff einer Yandere-Ikone – süß, besitzergreifend, brandgefährlich – und zieht den Hauptcharakter in ein Katz-und-Maus-Spiel, bei dem es um nichts weniger als die Nachfolge Gottes geht. Mir gefiel, wie der Protagonist vom passiven Beobachter zum Getriebenen wird, während die Welt um ihn herum kippt. Mindgames, plötzliche Wendungen, ein Finale mit Timeline-Twist und Memes, die bis heute leben: Ich hatte selten so viel Spaß an einem so chaotischen Survival-Spiel. Und schau dir ruhig mal das 1. Opening an, um dir eine Meinung zu bilden – am besten auch bei anderen Anime, das lohnt sich fast immer."
   },
   {
     place: "16",
@@ -76,7 +76,7 @@ const animeData = [
     studio: "MAPPA",
     format: "2 Staffeln + Film",
     hook: "Cursed Energy",
-    note: "MAPPA liefert hier extrem saubere Animation, starke Kameraarbeit und Kämpfe, die sich heavy anfühlen. Die Dynamik zwischen den Figuren passt, und gerade Gojo hat diesen uebertriebenen \"zu stark fuer die Welt\"-Vibe. Fuer mich einer der modernsten Shōnen, der stylisch bleibt, ohne sich selbst zu ernst zu nehmen."
+    note: "Ich musste über mehrere Jahre überzeugt werden, ihn anzuschauen, und wurde dann extrem positiv überrascht. Der Anime hat guten Humor, ohne die ernsten Momente zu killen, und Gojo ist OBVIOUS bester Charakter. Was mir besonders gefällt: Flüche entstehen aus negativen Emotionen der Menschen, und das ganze System mit Cursed Energy, Techniken und Domain Expansion fühlt sich logisch und kreativ an. Die Kämpfe sind hart choreografiert, wirken schwer und haben trotzdem Style, weil Kamera, Sounddesign und Inszenierung einfach sitzen. Die Animation war von Anfang an stark und wird von Staffel zu Staffel noch besser; man merkt richtig, wie MAPPA hier immer noch einen drauflegt. Staffel 2 fand ich sehr, sehr gut (Hidden Inventory + Shibuya hat komplett geliefert), und auch die aktuelle Staffel 3 ist super. Schade, dass Attack on Titan von diesem Studio nicht diese durchgehend kranke Animationsqualität bekommen hat."
   },
   {
     place: "15",
@@ -104,7 +104,7 @@ const animeData = [
     studio: "Madhouse",
     format: "26 Episoden",
     hook: "Berserk-Vibes",
-    note: "Wenn man Berserk feiert, fühlt sich Claymore wie der weibliche Cousin an: grim, brutal und voller Tragik. Claire und Teresa sind stark geschrieben, und die Monsterhorror-Vibes sind richtig gut. Der Anime ist nicht perfekt, aber die düstere Stimmung und das Setting haben mich hängen lassen."
+    note: "Ich musste auch hier sehr, sehr, sehr lange überzeugt werden, weil die Story erst nicht spektakulär klang. Aber zum Glück habe ich nachgegeben: Ich habe den Anime zwei Mal direkt hintereinander geschaut (passiert bei mir selten) und ihn ausnahmsweise auf Deutsch gesehen – war geil. Es ist Dark Fantasy und vom Feeling extrem nah an Berserk, also musste ich es lieben, und genau so war es auch. Der Anime unterscheidet sich beim Ende stark vom Manga und wirkt etwas abrupt. Der Manga solle deutlich geiler sein – das ging so weit, dass ich ihn in kürzester Zeit durchgesuchtet habe. Und man, war das fantastisch: super Berserk-Vibes, viel besseres Ende, einfach alles noch mal eine Ecke stärker. Manga wie Berserk und Claymore sind halt wirklich wie für mich gemacht."
   },
   {
     place: "13",
