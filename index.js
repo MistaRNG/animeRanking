@@ -9,8 +9,8 @@ const honorableMentions = document.getElementById("honorableMentions");
 
 const animeData = [
   {
-    place: "17",
-    navLabel: "17",
+    place: "20",
+    navLabel: "20",
     title: "Steins;Gate",
     image: "images/steins_gate.jpg",
     summary:
@@ -23,10 +23,10 @@ const animeData = [
     note: "Holt langsam Anlauf und zerlegt dich dann mit seinem Zeitreise-Knoten komplett. Der Twist am Ende hat mich damals richtig umgehauen und ich wollte sofort alle Details noch einmal auseinandernehmen. Lohnt sich wohl auch für einen Rewatch bei dem man neue Foreshadowing-Schnipsel entdeckt. Den Film dazu habe ich noch nicht gesehen und sollte ich zukünftig mal anpacken."
   },
   {
-    place: "16",
-    navLabel: "16",
+    place: "19",
+    navLabel: "19",
     title: "Sakurasou no Pet na Kanojo",
-    image: "images/sakurasou.jpg",
+    image: "images/sakurasou.png",
     summary:
       "Slice-of-Life über Kreativität, Scheitern und Freundschaft im Chaos eines Wohnheims. Viel Herz, Drama und ein bisschen Wahnsinn.",
     year: "2012",
@@ -37,10 +37,24 @@ const animeData = [
     note: "Einer meiner ersten Anime (glaube der 4.) und bis heute einer der wenigen Slice-of-Life-Titel, der mich wirklich berührt hat. Rückblickend weiß ich selbst nicht mehr so richtig woran das lag. Vielleicht hatte ich mich hier noch nicht am Genre satt gesehen, dennoch habe ich ihn als besonders gut und unterhaltend in Erinnerung. Ich habe ihn vor langer Zeit etwa drei Mal gesehen; jedes Mal knüpften die Gefühle von früher wieder an. Dieses Wohnheim-Chaos trifft mich, weil es echte Kreativ-Blockaden, Scheitern und Freundschaft so greifbar macht – und trotzdem herrlich absurd bleibt."
   },
   {
-    place: "15",
-    navLabel: "15",
+    place: "18",
+    navLabel: "18",
+    title: "That Time I Got Reincarnated as a Slime",
+    image: "images/slime_tensura.png",
+    summary:
+      "Isekai mit Wohlfühl-Vibes: Rimuru wird als Schleim wiedergeboren und baut ein Monster-Imperium mit Diplomatie und Power auf.",
+    year: "2018",
+    genre: "Isekai, Fantasy",
+    studio: "8bit",
+    format: "2 Staffeln + Film",
+    hook: "Nation-Building",
+    note: "Rimuru ist absurd stark, aber die Serie lebt davon, wie er aus einer zufälligen Monstertruppe eine echte Gesellschaft formt. Ich mag diese Mischung aus leichter Comedy, Politik und gelegentlichen Bossfights. Sobald die Stadt wächst und Allianzen entstehen, macht es richtig Spaß, weil es mehr als nur Kämpfen ist."
+  },
+  {
+    place: "17",
+    navLabel: "17",
     title: "Mirai Nikki",
-    image: "images/mirai_nikki.jpg",
+    image: "images/mirai_nikki.png",
     summary:
       "Survival-Game mit Tagebüchern aus der Zukunft, einer Yandere-Ikone und einem tödlichen Wettlauf gegen die Zeit.",
     year: "2011",
@@ -51,8 +65,22 @@ const animeData = [
     note: "Einer meiner frühen Anime und der erste, den ich vollständig auf Japanisch geschaut habe. Die Story ist wild, die Spannung hoch – bis heute ein Guilty Pleasure. Es gab noch keinen Battle-Royale oder Hunger Games Hype. Damals wirkte dieses Survival-Spiel richtig frisch: Zwölf Tagebücher mit unterschiedlichen Fähigkeiten, jeder misstraut jedem, ständig wechseln die Allianzen. Yuno ist der Inbegriff einer Yandere-Ikone – süß, besitzergreifend, brandgefährlich – und zieht den Hauptcharakter in ein Katz-und-Maus-Spiel, bei dem es um nichts weniger als die Nachfolge Gottes geht. Mir gefiel, wie der Protagonist vom passiven Beobachter zum Getriebenen wird, während die Welt um ihn herum kippt. Mindgames, plötzliche Wendungen, ein Finale mit Timeline-Twist und Memes, die bis heute leben: Ich hatte selten so viel Spaß an einem so chaotischen Survival-Spiel."
   },
   {
-    place: "14",
-    navLabel: "14",
+    place: "16",
+    navLabel: "16",
+    title: "Jujutsu Kaisen",
+    image: "images/jujutsu_kaisen.png",
+    summary:
+      "Flüche, Exorzisten und eine Jujutsu-Schule. Yuji trägt Sukuna in sich und lernt, Flüche mit roher Power zu bekämpfen.",
+    year: "2020",
+    genre: "Action, Dark Fantasy",
+    studio: "MAPPA",
+    format: "2 Staffeln + Film",
+    hook: "Cursed Energy",
+    note: "MAPPA liefert hier extrem saubere Animation, starke Kameraarbeit und Kämpfe, die sich heavy anfühlen. Die Dynamik zwischen den Figuren passt, und gerade Gojo hat diesen uebertriebenen \"zu stark fuer die Welt\"-Vibe. Fuer mich einer der modernsten Shōnen, der stylisch bleibt, ohne sich selbst zu ernst zu nehmen."
+  },
+  {
+    place: "15",
+    navLabel: "15",
     title: "Demon Slayer (Kimetsu no Yaiba)",
     image: "images/demon_slayer.jpg",
     summary:
@@ -63,6 +91,20 @@ const animeData = [
     format: "Serien + Filme",
     hook: "Ufotable-Optik",
     note: "Für viele der beste Anime überhaupt, und das liegt ganz klar an ufotable. Story und Figuren sind eher simpel bis generisch, aber dieses Animations-Studio verwandelt alles, was es anfasst, in Gold – eigentlich sollten die einfach jeden Anime machen. Gonpachiro und seine zwei Dullis hat man eigentlich in dieser Form schon etliche Male gesehen und ohne ufotable wäre Demon Slayer niemals so explodiert. Mein Highlight ist der Movie, der mich mit Abstand am meisten abgeholt hat. Der Anime ist extrem mainstream und teilweise overhyped, aber die Story ist dennoch gut und als Showcase für brachiale Animation, Licht und Kampfchoreos funktioniert er trotzdem sehr gut."
+  },
+  {
+    place: "14",
+    navLabel: "14",
+    title: "Claymore",
+    image: "images/claymore.png",
+    summary:
+      "Düstere Monsterjagd in Mittelalter-Optik: Halb-menschliche Kriegerinnen bekämpfen Yoma, die Menschen imitieren.",
+    year: "2007",
+    genre: "Dark Fantasy, Action",
+    studio: "Madhouse",
+    format: "26 Episoden",
+    hook: "Berserk-Vibes",
+    note: "Wenn man Berserk feiert, fühlt sich Claymore wie der weibliche Cousin an: grim, brutal und voller Tragik. Claire und Teresa sind stark geschrieben, und die Monsterhorror-Vibes sind richtig gut. Der Anime ist nicht perfekt, aber die düstere Stimmung und das Setting haben mich hängen lassen."
   },
   {
     place: "13",
@@ -82,7 +124,7 @@ const animeData = [
     place: "12",
     navLabel: "12",
     title: "JoJo's Bizarre Adventure",
-    image: "images/jojo.jpg",
+    image: "images/jojo.png",
     summary:
       "Mehrgenerationen-Saga mit Stands, Posing und einer stilistisch einzigartigen Erzählweise. Jedes Part fühlt sich wie ein eigenes Genre an.",
     year: "2012",
@@ -166,7 +208,7 @@ const animeData = [
     place: "6",
     navLabel: "6",
     title: "Berserk (Golden Age Filme)",
-    image: "images/berserk_golden_age.jpg",
+    image: "images/berserk1.png",
     summary:
       "Düstere Mittelalter-Fantasy über Guts, Griffith und die Falken. Die Filmtrilogie erzählt den Golden Age Arc kompakt und heftig.",
     year: "2012",
@@ -194,7 +236,7 @@ const animeData = [
     place: "4",
     navLabel: "4",
     title: "Attack on Titan",
-    image: "images/attack_on_titan.jpg",
+    image: "images/attack_on_titan.png",
     summary:
       "Mauern, Titanen, Intrigen und ein Soundtrack, der einen Aufstand vertonen könnte. Ein Epos in vier Staffeln.",
     year: "2013",
@@ -276,6 +318,10 @@ const honorableMentionsList = [
   {
     title: "One Punch Man",
     note: "Season 1 ist godlike animiert, der Manga auch top. Alles danach qualitativ deutlich schwächer."
+  },
+  {
+    title: "Seven Deadly Sins",
+    note: "Die ersten zwei Staffeln sind richtig stark – danach wird die Animation leider gottlos schlecht."
   }
 ];
 
