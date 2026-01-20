@@ -20,7 +20,7 @@ const animeData = [
     studio: "White Fox",
     format: "24 Episoden + OVA",
     hook: "Zeitreisen & Mindblow",
-    note: "Holt langsam Anlauf und zerlegt dich dann mit seinem Zeitreise-Knoten komplett. Der Twist am Ende hat mich damals richtig umgehauen und ich wollte sofort alle Details noch einmal auseinandernehmen. Lohnt sich wohl auch für einen Rewatch bei dem man neue Foreshadowing-Schnipsel entdeckt. Den Film dazu habe ich noch nicht gesehen und sollte ich zukünftig mal anpacken."
+    note: "Holt langsam Anlauf und zerlegt dich dann mit seinem Zeitreise-Knoten komplett. Der Twist am Ende hat mich damals richtig umgehauen und ich wollte sofort alle Details noch einmal auseinandernehmen. Lohnt sich wohl auch für einen Rewatch, bei dem man neue Foreshadowing-Schnipsel entdeckt. Den Film dazu habe ich noch nicht gesehen und den sollte ich zukünftig mal anpacken."
   },
   {
     place: "19",
@@ -34,7 +34,7 @@ const animeData = [
     studio: "J.C.Staff",
     format: "24 Episoden",
     hook: "Feels & Alltag",
-    note: "Einer meiner ersten Anime (glaube der 4.) und bis heute einer der wenigen Slice-of-Life-Titel, der mich wirklich berührt hat. Rückblickend weiß ich selbst nicht mehr so richtig woran das lag. Vielleicht hatte ich mich hier noch nicht am Genre satt gesehen, dennoch habe ich ihn als besonders gut und unterhaltend in Erinnerung. Ich habe ihn vor langer Zeit etwa drei Mal gesehen; jedes Mal knüpften die Gefühle von früher wieder an. Dieses Wohnheim-Chaos trifft mich, weil es echte Kreativ-Blockaden, Scheitern und Freundschaft so greifbar macht – und trotzdem herrlich absurd bleibt."
+    note: "Einer meiner ersten Anime (glaube, der vierte) und bis heute einer der wenigen Slice-of-Life-Titel, der mich wirklich berührt hat. Rückblickend weiß ich selbst nicht mehr so richtig, woran das lag. Vielleicht hatte ich mich hier noch nicht am Genre sattgesehen, aber ich habe ihn als besonders gut und unterhaltend in Erinnerung. Ich habe ihn vor langer Zeit etwa dreimal gesehen; jedes Mal knüpften die Gefühle von früher wieder an. Dieses Wohnheim-Chaos trifft mich, weil es echte Kreativ-Blockaden, Scheitern und Freundschaft so greifbar macht – und trotzdem herrlich absurd bleibt."
   },
   {
     place: "18",
@@ -104,7 +104,7 @@ const animeData = [
     studio: "Madhouse",
     format: "26 Episoden",
     hook: "Berserk-Vibes",
-    note: "Ich musste auch hier sehr, sehr, sehr lange überzeugt werden, weil die Story erst nicht spektakulär klang. Aber zum Glück habe ich nachgegeben: Ich habe den Anime zwei Mal direkt hintereinander geschaut (passiert bei mir selten) und ihn ausnahmsweise auf Deutsch gesehen – war geil. Es ist Dark Fantasy und vom Feeling extrem nah an Berserk, also musste ich es lieben, und genau so war es auch. Der Anime unterscheidet sich beim Ende stark vom Manga und wirkt etwas abrupt. Der Manga solle deutlich geiler sein – das ging so weit, dass ich ihn in kürzester Zeit durchgesuchtet habe. Und man, war das fantastisch: super Berserk-Vibes, viel besseres Ende, einfach alles noch mal eine Ecke stärker. Manga wie Berserk und Claymore sind halt wirklich wie für mich gemacht."
+    note: "Ich musste auch hier sehr, sehr, sehr lange überzeugt werden, weil die Story erst nicht spektakulär klang. Aber zum Glück habe ich nachgegeben: Ich habe den Anime zweimal direkt hintereinander geschaut (passiert bei mir selten) und ihn ausnahmsweise auf Deutsch gesehen – war geil. Es ist Dark Fantasy und vom Feeling extrem nah an Berserk, also musste ich es lieben, und genauso war es auch. Der Anime unterscheidet sich beim Ende stark vom Manga und wirkt etwas abrupt. Der Manga soll deutlich geiler sein – das ging so weit, dass ich ihn in kürzester Zeit durchgesuchtet habe. Und Mann, war das fantastisch: super Berserk-Vibes, viel besseres Ende, einfach alles noch mal eine Ecke stärker. Manga wie Berserk und Claymore sind halt wirklich wie für mich gemacht."
   },
   {
     place: "13",
@@ -118,7 +118,7 @@ const animeData = [
     studio: "Madhouse",
     format: "148 Episoden",
     hook: "Klassiker-Status",
-    note: "Gehört einfach in jede Sammlung. Sauber erzählte Arcs, starke Figuren – ein Evergreen, den man immer wieder empfehlen kann. Den Chimera-Ant-Arc habe ich damals mit jemandem zusammen geschaut und bin mental ausgestiegen, wobei ich diesen selben Arc wenig später moch mal allein komplett nachgeholt habe, weil es mich dann doch so gepackt hat. Eigentlich mag ich Trainings- und Tournament-Arcs nicht, aber hier funktioniert es – gefühlt ist der Anime ja fast nur daraus gebaut und kriegt mich trotzdem."
+    note: "Gehört einfach in jede Sammlung. Sauber erzählte Arcs, starke Figuren – ein Evergreen, den man immer wieder empfehlen kann. Den Chimera-Ant-Arc habe ich damals mit jemandem zusammen geschaut und bin mental ausgestiegen, wobei ich denselben Arc wenig später noch mal allein komplett nachgeholt habe, weil es mich dann doch so gepackt hat. Eigentlich mag ich Trainings- und Tournament-Arcs nicht, aber hier funktioniert es – gefühlt ist der Anime ja fast nur daraus gebaut und kriegt mich trotzdem."
   },
   {
     place: "12",
@@ -132,7 +132,7 @@ const animeData = [
     studio: "David Production",
     format: "Mehrere Parts",
     hook: "Bizarre Style",
-    note: "Erste Staffel fand ich schwach und war danach skeptisch. Staffel 2 schon klar besser, und ab Part/Staffel 3 bis 5 war ich komplett drin: Stands statt Vampir-Power, irre Gegnerdesigns, Roadtrip-Vibes, und dieser Stil, der dir ständig neue Meme-Momente schenkt. JoJo ist als Mehrgenerationen-Saga aufgebaut – jeder Part hat einen neuen Joestar-Nachfahren und fühlt sich wie ein eigenes Genre an, aber der völlig überdrehte JoJo-Spirit bleibt. Memes haben mich quasi hineingezogen; irgendwann musste ich schauen, weil ich so viele Referenzen gesehen hatte. Genau diese Mischung macht Part 3–5 für mich pures Gold."
+    note: "Erste Staffel fand ich schwach und war danach skeptisch. Staffel 2 war schon klar besser, und ab Part/Staffel 3 bis 5 war ich komplett drin: Stands statt Vampir-Power, irre Gegnerdesigns, Roadtrip-Vibes und dieser Stil, der dir ständig neue Meme-Momente schenkt. JoJo ist als Mehrgenerationen-Saga aufgebaut – jeder Part hat einen neuen Joestar-Nachfahren und fühlt sich wie ein eigenes Genre an, aber der völlig überdrehte JoJo-Spirit bleibt. Memes haben mich quasi hineingezogen; irgendwann musste ich schauen, weil ich so viele Referenzen gesehen hatte. Genau diese Mischung macht Part 3–5 für mich pures Gold."
   },
   {
     place: "11",
@@ -216,7 +216,7 @@ const animeData = [
     studio: "Studio 4°C",
     format: "Filmtrilogie",
     hook: "Manga-Gate",
-    note: "Ich bin Dark-Fantasy-Fan und Berserk ist Meisterklasse des Genres. Die Story ist brachial gut und extrem einflussreich. Das Eclipse-Event hat unzählige Kopien, was viele wohl gar nicht wissen. Sogar Spiele wie Dark Souls sind sehr von Berserk inspiriert. Die Filme sind ganz okay, aber große Warnung: bitte NICHT die Serie schauen. Ufotable als Studio für eine Anime-Umsetzung wäre ein Traum den wohl viele haben, ich würde wahrscheinlich tot umfallen. Der Manga ist der einzige, den ich physisch besitze – der Zeichenstil ist so krank gut, dass man fast jede Seite an die Wand hängen könnte. Schade, dass der Manga noch nicht beendet ist (RIP). Wenn man Berserk mag, kann man sich auch Claymore gönnen."
+    note: "Ich bin Dark-Fantasy-Fan und Berserk ist Meisterklasse des Genres. Die Story ist brachial gut und extrem einflussreich. Das Eclipse-Event hat unzählige Kopien, was viele wohl gar nicht wissen. Sogar Spiele wie Dark Souls sind sehr von Berserk inspiriert. Die Filme sind ganz okay, aber große Warnung: bitte NICHT die Serie schauen. Ufotable als Studio für eine Anime-Umsetzung wäre ein Traum, den wohl viele haben; ich würde wahrscheinlich tot umfallen. Der Manga ist der einzige, den ich physisch besitze – der Zeichenstil ist so krank gut, dass man fast jede Seite an die Wand hängen könnte. Schade, dass der Manga noch nicht beendet ist (RIP). Wenn man Berserk mag, kann man sich auch Claymore gönnen."
   },
   {
     place: "5",
@@ -244,7 +244,7 @@ const animeData = [
     studio: "Wit Studio & MAPPA",
     format: "4 Staffeln",
     hook: "Dauer-Gänsehaut",
-    note: "Ein Generationen-Anime. Als Staffel 1 kam, liefen massig Leute auf Messen im Aufklärungstrupp-Look herum. Staffel 2 ließ lange auf sich warten und hatte wenige Folgen, aber den legendären Plot-Moment (Shifter-Reveal) der für mich absolutes Highlight ist. Ich war seit Release dabei: Staffel 1 viermal, Staffel 2 dreimal gesehen; jede Folge war ein Event, kein Binge. Reiner bester Charakter :P. Eren wird immer mehr Fascho und sein Plan war für mich absehbar zum Scheitern verurteilt, deshalb hat mich das gespaltene Ende nicht überrascht. Die Welt wird ständig größer, die Mystery hält die Spannung oben, die Parallelen zum NS-Totalitarismus und der Juden-Verfolgung sind interessant. Musik ist fantastisch – hatte ich früher sogar als Wecker. Schade, dass die Animationsqualität später nachließ, wie es bei vielen Anime der Fall ist (Studio-Wechsel lässt grüßen)."
+    note: "Ein Generationen-Anime. Als Staffel 1 kam, liefen massig Leute auf Messen im Aufklärungstrupp-Look herum. Staffel 2 ließ lange auf sich warten und hatte wenige Folgen, aber den legendären Plot-Moment (Shifter-Reveal), der für mich absolutes Highlight ist. Ich war seit Release dabei: Staffel 1 viermal, Staffel 2 dreimal gesehen; jede Folge war ein Event, kein Binge. Reiner bester Charakter :P. Eren wird immer mehr Fascho und sein Plan war für mich absehbar zum Scheitern verurteilt, deshalb hat mich das gespaltene Ende nicht überrascht. Die Welt wird ständig größer, die Mystery hält die Spannung oben, die Parallelen zum NS-Totalitarismus und der Judenverfolgung sind interessant. Musik ist fantastisch – hatte ich früher sogar als Wecker. Schade, dass die Animationsqualität später nachließ, wie es bei vielen Anime der Fall ist (Studio-Wechsel lässt grüßen)."
   },
   {
     place: "3",
@@ -258,7 +258,7 @@ const animeData = [
     studio: "Madhouse & Co.",
     format: "10 OVAs",
     hook: "Alucard unleashed",
-    note: "Mein zweiter Anime und bis heute einer der unzensiertesten. Ich habe ihn früher oft geschaut; heute würde man dafür vielleicht verhaftet werden, wenn man sowas produziert – genau deshalb ist er so gut. Ultimate ist die Version, die die Manga-Story vollständig und brutal adaptiert (anders als die alte TV-Serie), mit besserer Animation und mehr Wahnsinn. Alucard als unsterblicher Vampir gegen Nazi-Vampir-Armeen, der Vatikan mischt mit, überall stilisierte Gewalt und ikonische Momente. Soundtrack knallt, Inszenierung ist wahnsinnig gut. Ich habe damals angefangen zu schauen, als die letzte OVA gerade erschienen ist, weshalb ich dafür auch von deutsche Synchro auf Japanisch wechseln musste, was mich damals sehr störte, allerdings auch ein guter Einstieg war."
+    note: "Mein zweiter Anime und bis heute einer der unzensiertesten. Ich habe ihn früher oft geschaut; heute würde man dafür vielleicht verhaftet werden, wenn man sowas produziert – genau deshalb ist er so gut. Ultimate ist die Version, die die Manga-Story vollständig und brutal adaptiert (anders als die alte TV-Serie), mit besserer Animation und mehr Wahnsinn. Alucard als unsterblicher Vampir gegen Nazi-Vampir-Armeen, der Vatikan mischt mit, überall stilisierte Gewalt und ikonische Momente. Soundtrack knallt, Inszenierung ist wahnsinnig gut. Ich habe damals angefangen zu schauen, als die letzte OVA gerade erschienen ist, weshalb ich dafür auch von der deutschen Synchro auf Japanisch wechseln musste, was mich damals sehr störte, aber auch ein guter Einstieg war."
   },
   {
     place: "2",
@@ -266,13 +266,13 @@ const animeData = [
     title: "Fate/Zero & Fate/stay night (Reihe)",
     image: "images/fate_zero.jpg",
     summary:
-      "Heiliger Gral Krieg mit Heroic Spirits, philosophischen Duellen und ufotable-Sakuga, die jede Schlacht zum Kunstwerk macht.",
+      "Heiliger-Gral-Krieg mit Heroic Spirits, philosophischen Duellen und ufotable-Sakuga, die jede Schlacht zum Kunstwerk macht.",
     year: "2011",
     genre: "Action, Fantasy",
     studio: "ufotable",
     format: "Mehrere Staffeln & Filme",
     hook: "Ufotable-Sakuga",
-    note: "Absoluter Fan. Fate/Zero ist für mich Peak ufotable: sakuga ohne Ende, düstere Farbpalette, Kamerafahrten wie im Kino und Kämpfe, die sich in den Kopf brennen. Man lernt nebenbei was über Geschichte und Helden. Selbst in Dialogszenen bleibt das Bild nie stehen – zwei Figuren laufen im Kreis durch ein prächtiges Gebäude, während sie reden; andere Studios würden nur Mundanimation zeigen. Die Idee, historische Helden in einem Battle Royale um den Heiligen Gral gegeneinander antreten zu lassen, ist stark, aber die Reihe glänzt vor allem in den moralischen Dilemmas (Kiritsugu vs. Kirei, Ideale vs. Realität). Fate/Zero ist ein sehr guter, einfacher Einstieg. Danach spielt Fate/stay night mit drei Routen (Saber, Rin/Unlimited Blade Works, Sakura/Heaven’s Feel), weil es auf einem Spiel mit verzweigten Story-Strängen basiert. Leider ist meine Lieblingsroute (Saber) am schwächsten animiert, weil es nicht von ufotable ist. Ich hatte die Saber-Route vor ganz langer Zeit versucht mit einem Kumpel zu schauen und diese abgebrochen. Erst nachdem jemand anderes mich überredete Fate/Zero und UBW zu schauen, bekam ich langsam Fan und schaute auch die grandiosen Heaven’s-Feel-Filme. Danach gab ich auch der Saber-Route noch eine Chance – ab da war ich dann komplett drin und mochte diese am Meisten. Aber auch die Rin- und Sakura-Route sind fantastisch. Schau dir nur mal Saber vs. Berserker oder Saber vs. Rider auf YouTube an: jeder einzelne Kampf, jede Animation ist godlike. Ich habe eine regelrechte Angst mir ein Video dazu anzuschauen, weil ich sonst wohl wieder sofort alles binge. Philosophisch und bombastisch zugleich – genau diese Mischung macht die Reihe so einzigartig."
+    note: "Absoluter Fan. Fate/Zero ist für mich Peak ufotable: sakuga ohne Ende, düstere Farbpalette, Kamerafahrten wie im Kino und Kämpfe, die sich in den Kopf brennen. Man lernt nebenbei was über Geschichte und Helden. Selbst in Dialogszenen bleibt das Bild nie stehen – zwei Figuren laufen im Kreis durch ein prächtiges Gebäude, während sie reden; andere Studios würden nur Mundanimation zeigen. Die Idee, historische Helden in einem Battle Royale um den Heiligen Gral gegeneinander antreten zu lassen, ist stark, aber die Reihe glänzt vor allem in den moralischen Dilemmas (Kiritsugu vs. Kirei, Ideale vs. Realität). Fate/Zero ist ein sehr guter, einfacher Einstieg. Danach spielt Fate/stay night mit drei Routen (Saber, Rin/Unlimited Blade Works, Sakura/Heaven’s Feel), weil es auf einem Spiel mit verzweigten Story-Strängen basiert. Leider ist meine Lieblingsroute (Saber) am schwächsten animiert, weil es nicht von ufotable ist. Ich hatte die Saber-Route vor ganz langer Zeit versucht mit einem Kumpel zu schauen und diese abgebrochen. Erst nachdem jemand anderes mich überredete Fate/Zero und UBW zu schauen, bekam ich langsam Fan und schaute auch die grandiosen Heaven’s-Feel-Filme. Danach gab ich auch der Saber-Route noch eine Chance – ab da war ich dann komplett drin und mochte diese am meisten. Aber auch die Rin- und Sakura-Route sind fantastisch. Schau dir nur mal Saber vs. Berserker oder Saber vs. Rider auf YouTube an: jeder einzelne Kampf, jede Animation ist godlike. Ich habe eine regelrechte Angst mir ein Video dazu anzuschauen, weil ich sonst wohl wieder sofort alles binge. Philosophisch und bombastisch zugleich – genau diese Mischung macht die Reihe so einzigartig."
   },
   {
     place: "1",
@@ -286,7 +286,7 @@ const animeData = [
     studio: "Arms",
     format: "13 Episoden + OVA",
     hook: "Erster Anime ever",
-    note: "Dieser ist mein erster Anime, mein Einstiegsmedium. Für viele ist der erste bewusst geschaute Anime auch immer der Beste und so ist es auch bei mir der Fall. Ein Freund musste mich dazu zwingen ihn mit sich anzuschauen, weil ich von Anime (generell japanischen Medien) nicht viel gehalten habe und eigentlich viel lieber Call of Duty: Black Ops 2 spielen wollte. Nach viel Überzeugungsarbeit schauten wir ihn uns dann in deutsch auf YouTube an (ja sowas gab es früher auf Youtube als 5h Video OHNE Werbung). Aus damaliger Sicht war es unfassbar zu sehen, wie sehr unzensiert eine Serie sein kann, um eine wunderschöne Story zu erzählen. Ich habe ihn bestimmt zwölfmal gesehen; damals direkt vier Tage am Stück hintereinander mit meinem Kumpel zusammen und daraus wurde ein jährliches Ritual. Ich erinnere mich noch, wie ich wochenlang an nichts anders denken konnte, als ich in der Schule saß. Er ist brutal und zart zugleich – genau deshalb meine persönliche Nummer 1. So etwas hatte man einfach noch nie gesehen. Die Musik ist unvergleichbar und das Ende lässt einen (zumindest jungen Menschen) als emotionales Nervenbündel zurück."
+    note: "Dieser ist mein erster Anime, mein Einstiegsmedium. Für viele ist der erste bewusst geschaute Anime auch immer der Beste, und so ist es auch bei mir der Fall. Ein Freund musste mich dazu zwingen, ihn mit sich anzuschauen, weil ich von Anime (generell japanischen Medien) nicht viel gehalten habe und eigentlich viel lieber Call of Duty: Black Ops 2 spielen wollte. Nach viel Überzeugungsarbeit schauten wir ihn uns dann auf Deutsch auf YouTube an (ja, sowas gab es früher auf YouTube als 5-Stunden-Video OHNE Werbung). Aus damaliger Sicht war es unfassbar zu sehen, wie sehr unzensiert eine Serie sein kann, um eine wunderschöne Story zu erzählen. Ich habe ihn bestimmt zwölfmal gesehen; damals direkt vier Tage am Stück hintereinander mit meinem Kumpel zusammen, und daraus wurde ein jährliches Ritual. Ich erinnere mich noch, wie ich wochenlang an nichts anderes denken konnte, als ich in der Schule saß. Er ist brutal und zart zugleich – genau deshalb meine persönliche Nummer 1. So etwas hatte man einfach noch nie gesehen. Die Musik ist unvergleichbar und das Ende lässt einen (zumindest jungen Menschen) als emotionales Nervenbündel zurück."
   }
 ];
 
