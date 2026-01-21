@@ -104,7 +104,7 @@ const animeData = [
     studio: "Madhouse",
     format: "26 Episoden",
     hook: "Berserk-Vibes",
-    note: "Ich musste auch hier sehr, sehr, sehr lange überzeugt werden, weil die Story erst nicht spektakulär klang. Aber zum Glück habe ich nachgegeben: Ich habe den Anime zweimal direkt hintereinander geschaut (passiert bei mir selten) und ihn ausnahmsweise auf Deutsch gesehen – war geil. Es ist Dark Fantasy und vom Feeling extrem nah an Berserk, also musste ich es lieben, und genauso war es auch. Der Anime unterscheidet sich beim Ende stark vom Manga und wirkt etwas abrupt. Der Manga soll deutlich geiler sein – das ging so weit, dass ich ihn in kürzester Zeit durchgesuchtet habe. Und Mann, war das fantastisch: super Berserk-Vibes, viel besseres Ende, einfach alles noch mal eine Ecke stärker. Manga wie Berserk und Claymore sind halt wirklich wie für mich gemacht."
+    note: "Ich musste auch hier sehr, sehr, sehr lange überzeugt werden, weil die Story erst nicht spektakulär klang. Aber zum Glück habe ich nachgegeben: Ich habe den Anime zweimal direkt hintereinander geschaut (passiert bei mir selten) und ihn ausnahmsweise auf Deutsch gesehen – war geil. Es ist Dark Fantasy und vom Feeling extrem nah an Berserk, also musste ich es lieben, und genauso war es auch. Das Anime-Ende weicht stark vom Manga ab und wirkt dadurch etwas abrupt. Der Manga soll deutlich geiler sein – das ging so weit, dass ich ihn in kürzester Zeit durchgesuchtet habe. Und Mann, war das fantastisch: super Berserk-Vibes, viel besseres Ende, einfach alles noch mal eine Ecke stärker. Manga wie Berserk und Claymore sind halt wirklich wie für mich gemacht."
   },
   {
     place: "13",
