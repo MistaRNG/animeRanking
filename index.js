@@ -268,7 +268,7 @@ const animeData = [
     summary:
       "Heiliger-Gral-Krieg mit Heroic Spirits, philosophischen Duellen und ufotable-Sakuga, die jede Schlacht zum Kunstwerk macht.",
     year: "2011",
-    genre: "Action, Fantasy",
+    genre: "Action, Dark Fantasy",
     studio: "ufotable",
     format: "Mehrere Staffeln & Filme",
     hook: "Ufotable-Sakuga",
