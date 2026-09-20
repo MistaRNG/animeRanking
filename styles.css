@@ -130,6 +130,14 @@ tbody,
   height: auto;
   object-fit: cover;
 }
+/* Portrait crop for the Clevatess cover only. */
+.card-image[src="images/clevatess.png"] {
+  width: 100%;
+  height: 420px;
+  object-fit: cover;
+  object-position: center;
+}
+
 .ranking-title {
   max-width: 69em;
 }

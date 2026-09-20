@@ -18,7 +18,7 @@ const animeData = [
     year: "2011",
     genre: "Sci-Fi, Thriller",
     studio: "White Fox",
-    format: "24 Episoden + OVA",
+    format: "24 Episoden",
     hook: "Zeitreisen & Mindblow",
     note: "Holt langsam Anlauf und zerlegt dich dann mit seinem Zeitreise-Knoten komplett. Der Twist am Ende hat mich damals richtig umgehauen und ich wollte sofort alle Details noch einmal auseinandernehmen. Lohnt sich wohl auch für einen Rewatch, bei dem man neue Foreshadowing-Schnipsel entdeckt. Den Film dazu habe ich noch nicht gesehen und den sollte ich zukünftig mal anpacken."
   },
@@ -39,16 +39,16 @@ const animeData = [
   {
     place: "18",
     navLabel: "18",
-    title: "That Time I Got Reincarnated as a Slime",
-    image: "images/slime_tensura.png",
+    title: "Frieren – Nach dem Ende der Reise",
+    image: "images/frieren.jpg",
     summary:
-      "Isekai mit Wohlfühl-Vibes: Rimuru wird als Schleim wiedergeboren und baut ein Monster-Imperium mit Diplomatie und Power auf.",
-    year: "2018",
-    genre: "Isekai, Fantasy",
-    studio: "8bit",
-    format: "2 Staffeln + Film",
-    hook: "Nation-Building",
-    note: "Ich wollte den Anime anfangs nicht schauen, weil ich keinen Bock auf einen Schleim als Hauptcharakter hatte und mich die Prämisse nicht überzeugt hat. Der Reinkarnationsprozess ist aber überraschend detailliert und hat mich direkt abgeholt. Rimuru ist absurd stark, aber die Serie lebt davon, wie er aus einer zufälligen Monstertruppe eine echte Gesellschaft formt. Ich mag diese Mischung aus leichter Comedy, Politik und gelegentlichen Bossfights. Von Staffel zu Staffel wird der Anime besser, weil die Welt größer wird und die Konflikte interessanter werden. Auch das Power-Scaling ist für mich spannend und gut gelöst, weil neue Kräfte logisch aufgebaut werden und nicht einfach aus dem Nichts kommen."
+      "Der Dämonenkönig ist besiegt, doch für die langlebige Elfenmagierin Frieren beginnt die eigentliche Reise erst jetzt: Sie lernt, was gemeinsame Zeit und vergängliche Freundschaften bedeuten.",
+    year: "2023",
+    genre: "Fantasy, Abenteuer, Drama",
+    studio: "Madhouse",
+    format: "2 Staffeln",
+    hook: "Fantasy mit Seele",
+    note: "Frieren hat für mich wohl das beste World-Building, das ich jemals irgendwo gesehen habe. Die Serie nimmt einen wirklich überallhin mit: auf lange Wanderungen, in kleine Dörfer, an unscheinbare Wegkreuzungen und mitten in den Alltag der Menschen. Man sieht, wie sie leben, welche Bräuche sie pflegen und was Magie für sie ganz praktisch bedeutet. Selbst ein kurzer Zwischenstopp fühlt sich dadurch wie ein echter Ort mit eigener Geschichte an. Die Welt wird nicht bloß erklärt, man verbringt Zeit in ihr. Dazu kommen die herrlich deutschen Namen: Himmel, Heiter, Eisen, Fern und Stark – als deutschsprachiger Zuschauer muss ich da regelmäßig grinsen. Für die langlebige Frieren hat Zeit eine völlig andere Bedeutung als für ihre menschlichen Begleiter, und aus diesem Unterschied entstehen unglaublich schöne, melancholische Momente. Trockener Humor, kleine Gesten, Musik und ruhige Landschaften machen den Anime für mich so beruhigend, dass er fast schon therapeutisch wirkt. Er hat mir einmal durch eine sehr stressige Zeit geholfen, und ich kann mir gut vorstellen, auch künftig wieder zu ihm zurückzukehren. Genau deshalb hat er es in meine Liste geschafft. Ich habe das Gefühl, dass viele an dieser Ruhe etwas Ähnliches schätzen. Dass Frieren derzeit auf MyAnimeList auf Platz 1 steht, überrascht mich deshalb überhaupt nicht. Und wenn doch gekämpft wird, zeigt Madhouse nebenbei, wie fantastisch Magie aussehen kann."
   },
   {
     place: "17",
@@ -62,25 +62,11 @@ const animeData = [
     studio: "asread.",
     format: "26 Episoden",
     hook: "Yuno Gasai",
-    note: "Einer meiner frühen Anime und der erste, den ich vollständig auf Japanisch geschaut habe. Die Story ist wild, die Spannung hoch – bis heute ein Titel, den ich gern verteidige. Es gab noch keinen Battle-Royale oder Hunger Games Hype. Damals wirkte dieses Survival-Spiel richtig frisch: Zwölf Tagebücher mit unterschiedlichen Fähigkeiten, jeder misstraut jedem, ständig wechseln die Allianzen. Yuno ist der Inbegriff einer Yandere-Ikone – süß, besitzergreifend, brandgefährlich – und zieht den Hauptcharakter in ein Katz-und-Maus-Spiel, bei dem es um nichts weniger als die Nachfolge Gottes geht. Mir gefiel, wie der Protagonist vom passiven Beobachter zum Getriebenen wird, während die Welt um ihn herum kippt. Mindgames, plötzliche Wendungen, ein Finale mit Timeline-Twist und Memes, die bis heute leben: Ich hatte selten so viel Spaß an einem so chaotischen Survival-Spiel. Und schau dir ruhig mal das 1. Opening an, um dir eine Meinung zu bilden – am besten auch bei anderen Anime, das lohnt sich fast immer."
+    note: "Einer meiner frühen Anime und der erste, den ich vollständig auf Japanisch geschaut habe. Die Story ist wild, die Spannung hoch – bis heute ein Titel, den ich gern verteidige. Es gab noch keinen Battle-Royale oder Hunger Games Hype. Damals wirkte dieses Survival-Spiel richtig frisch: Zwölf Tagebücher mit unterschiedlichen Fähigkeiten, jeder misstraut jedem, ständig wechseln die Allianzen. Yuno ist der Inbegriff einer Yandere-Ikone – süß, besitzergreifend, brandgefährlich – und zieht den Hauptcharakter in ein Katz-und-Maus-Spiel, bei dem es um nichts weniger als die Nachfolge Gottes geht. Mir gefiel, wie der Protagonist vom passiven Beobachter zum Getriebenen wird, während die Welt um ihn herum kippt. Mindgames, plötzliche Wendungen und Memes, die bis heute leben: Ich hatte selten so viel Spaß an einem so chaotischen Survival-Spiel. Und schau dir ruhig mal das 1. Opening an, um dir eine Meinung zu bilden – am besten auch bei anderen Anime, das lohnt sich fast immer."
   },
   {
     place: "16",
     navLabel: "16",
-    title: "Jujutsu Kaisen",
-    image: "images/jujutsu_kaisen.png",
-    summary:
-      "Flüche, Exorzisten und eine Jujutsu-Schule. Yuji trägt Sukuna in sich und lernt, Flüche mit roher Power zu bekämpfen.",
-    year: "2020",
-    genre: "Action, Dark Fantasy",
-    studio: "MAPPA",
-    format: "2 Staffeln + Film",
-    hook: "Cursed Energy",
-    note: "Ich musste über mehrere Jahre überzeugt werden, ihn anzuschauen, und wurde dann extrem positiv überrascht. Der Anime hat guten Humor, ohne die ernsten Momente zu killen, und Gojo ist OBVIOUS bester Charakter. Was mir besonders gefällt: Flüche entstehen aus negativen Emotionen der Menschen, und das ganze System mit Cursed Energy, Techniken und Domain Expansion fühlt sich logisch und kreativ an. Die Kämpfe sind hart choreografiert, wirken schwer und haben trotzdem Style, weil Kamera, Sounddesign und Inszenierung einfach sitzen. Die Animation war von Anfang an stark und wird von Staffel zu Staffel noch besser; man merkt richtig, wie MAPPA hier immer noch einen drauflegt. Staffel 2 fand ich sehr, sehr gut (Hidden Inventory + Shibuya hat komplett geliefert), und auch die aktuelle Staffel 3 ist super. Schade, dass Attack on Titan von diesem Studio nicht diese durchgehend kranke Animationsqualität bekommen hat."
-  },
-  {
-    place: "15",
-    navLabel: "15",
     title: "Demon Slayer (Kimetsu no Yaiba)",
     image: "images/demon_slayer.jpg",
     summary:
@@ -88,13 +74,13 @@ const animeData = [
     year: "2019",
     genre: "Action, Shōnen",
     studio: "ufotable",
-    format: "Serien + Filme",
+    format: "4 Staffeln + 2 Filme",
     hook: "Ufotable-Optik",
     note: "Für viele der beste Anime überhaupt, und das liegt ganz klar an ufotable. Story und Figuren sind eher simpel bis generisch, aber dieses Animations-Studio verwandelt alles, was es anfasst, in Gold – eigentlich sollten die einfach jeden Anime machen. Gonpachiro und seine zwei Dullis hat man eigentlich in dieser Form schon etliche Male gesehen und ohne ufotable wäre Demon Slayer niemals so explodiert. Mein Highlight ist der Movie, der mich mit Abstand am meisten abgeholt hat. Der Anime ist extrem mainstream und teilweise overhyped, aber die Story ist dennoch gut und als Showcase für brachiale Animation, Licht und Kampfchoreos funktioniert er trotzdem sehr gut."
   },
   {
-    place: "14",
-    navLabel: "14",
+    place: "15",
+    navLabel: "15",
     title: "Claymore",
     image: "images/claymore.png",
     summary:
@@ -107,8 +93,8 @@ const animeData = [
     note: "Ich musste auch hier sehr, sehr, sehr lange überzeugt werden, weil die Story erst nicht spektakulär klang. Aber zum Glück habe ich nachgegeben: Ich habe den Anime zweimal direkt hintereinander geschaut (passiert bei mir selten) und ihn ausnahmsweise auf Deutsch gesehen – war geil. Es ist Dark Fantasy und vom Feeling extrem nah an Berserk, also musste ich es lieben, und genauso war es auch. Das Anime-Ende weicht stark vom Manga ab und wirkt dadurch etwas abrupt. Der Manga soll deutlich geiler sein – das ging so weit, dass ich ihn in kürzester Zeit durchgesuchtet habe. Und Mann, war das fantastisch: super Berserk-Vibes, viel besseres Ende, einfach alles noch mal eine Ecke stärker. Manga wie Berserk und Claymore sind halt wirklich wie für mich gemacht."
   },
   {
-    place: "13",
-    navLabel: "13",
+    place: "14",
+    navLabel: "14",
     title: "Hunter x Hunter (2011)",
     image: "images/hunter_x_hunter.jpg",
     summary:
@@ -121,8 +107,8 @@ const animeData = [
     note: "Gehört einfach in jede Sammlung. Sauber erzählte Arcs, starke Figuren – ein Evergreen, den man immer wieder empfehlen kann. Den Chimera-Ant-Arc habe ich damals mit jemandem zusammen geschaut und bin mental ausgestiegen, wobei ich denselben Arc wenig später noch mal allein komplett nachgeholt habe, weil es mich dann doch so gepackt hat. Eigentlich mag ich Trainings- und Tournament-Arcs nicht, aber hier funktioniert es – gefühlt ist der Anime ja fast nur daraus gebaut und kriegt mich trotzdem."
   },
   {
-    place: "12",
-    navLabel: "12",
+    place: "13",
+    navLabel: "13",
     title: "JoJo's Bizarre Adventure",
     image: "images/jojo.png",
     summary:
@@ -130,9 +116,23 @@ const animeData = [
     year: "2012",
     genre: "Action, Abenteuer",
     studio: "David Production",
-    format: "Mehrere Parts",
+    format: "7 Parts",
     hook: "Bizarre Style",
     note: "Erste Staffel fand ich schwach und war danach skeptisch. Staffel 2 war schon klar besser, und ab Part/Staffel 3 bis 5 war ich komplett drin: Stands statt Vampir-Power, irre Gegnerdesigns, Roadtrip-Vibes und dieser Stil, der dir ständig neue Meme-Momente schenkt. JoJo ist als Mehrgenerationen-Saga aufgebaut – jeder Part hat einen neuen Joestar-Nachfahren und fühlt sich wie ein eigenes Genre an, aber der völlig überdrehte JoJo-Spirit bleibt. Memes haben mich quasi hineingezogen; irgendwann musste ich schauen, weil ich so viele Referenzen gesehen hatte. Genau diese Mischung macht Part 3–5 für mich pures Gold."
+  },
+  {
+    place: "12",
+    navLabel: "12",
+    title: "Clevatess",
+    image: "images/clevatess.png",
+    summary:
+      "Düstere Fantasy um den beinahe gottgleichen Clevatess und die Heldin Alicia. Eine gewaltige, gefährliche Welt, ungewöhnliche Figuren und eine Reise voller Geheimnisse.",
+    year: "2025",
+    genre: "Dark Fantasy",
+    studio: "Lay-duce",
+    format: "2 Staffeln",
+    hook: "Düstere Welt, starke Figuren",
+    note: "Die erste Folge ist für mich die beste Auftaktfolge, die ich überhaupt je bei einer Serie gesehen habe. Sie zieht einen mit einer Wucht in diese Welt, die ich so selten erlebt habe. Staffel 1 gehört für mich zu den besten Dark-Fantasy-Darstellungen überhaupt: eine finstere, gefährliche Welt, gewaltige Schlachten und ein Gefühl für Größe, das mich stellenweise an Herr der Ringe erinnert. Die Farbpalette gibt den Bildern eine ganz eigene Stimmung, und für manche Schauplätze wurden tatsächlich echte Miniaturkulissen gebaut und gefilmt. Diese handwerkliche Arbeit macht die Welt für mich besonders plastisch und greifbar. Dazu kommt das Sounddesign, das die Szenen richtig schwer und bedrohlich wirken lässt. Das ist für mich CINEMA. Schon das grandiose Opening bringt diese Atmosphäre perfekt auf den Punkt. Dazu kommen die Figuren: Clevatess wirkt mit seiner gottgleichen Macht fremd und faszinierend, und Alicia ist für mich die bisher am besten umgesetzte Heldin überhaupt. Ihr Mut, ihre Haltung und ihr eigener Wille machen sie überzeugend, ohne dass der Anime einem ständig erklären muss, warum man sie großartig finden soll. Gerade diese beiden tragen die Geschichte für mich enorm. Staffel 2 verliert mit dem für mich völlig unpassenden Schul-Arc in Folge 2 bis 4 leider etwas von dieser Stärke. Ab Folge 5 wird es aber bedeutend besser, und Richtung Staffelende fühlt sich das Ganze wieder richtig episch an. Wenn eine dritte Staffel an die Stärken der ersten anknüpft, wird Clevatess hier ziemlich sicher weiter steigen. Schade, dass es so wenig Anime in dieser Richtung gibt. Ich würde mir wünschen, dass solche Titel im Mainstream und bei Plattformen wie Crunchyroll deutlich mehr Aufmerksamkeit bekommen. Eine Berserk-Umsetzung mit genau dieser Atmosphäre und Inszenierung? Gott, wäre das geil."
   },
   {
     place: "11",
@@ -144,7 +144,7 @@ const animeData = [
     year: "2016",
     genre: "Comedy, Isekai",
     studio: "Studio Deen",
-    format: "2 Staffeln + Film",
+    format: "3 Staffeln + Film",
     hook: "Bester Comedy-Isekai",
     note: "Für mich unschlagbar, wenn es um Comedy im Isekai-Genre geht. Jeder Gag sitzt, jede Folge ist quotable – perfektes Kontrastprogramm zu düsteren Titeln. Nach einer langen Anime-Pause hat mich KonoSuba wieder zurückgeholt und mein Vertrauen in ein völlig überlaufendes Genre gefixt, das oft nur Müll liefert. Kazuma und seine Chaos-Truppe lassen mich regelmäßig laut lachen, egal wie oft ich einzelne Folgen noch mal anmache, und sogar den Manga zum Prequel habe ich mir reingezogen, weil ich mehr wollte."
   },
@@ -172,9 +172,9 @@ const animeData = [
     year: "2021",
     genre: "Isekai, Abenteuer",
     studio: "Studio Bind",
-    format: "2 Staffeln (bisher)",
+    format: "3 Staffeln",
     hook: "Isekai-Blueprint",
-    note: "Aktuell einer der besten Isekai für mich. Nach einer zweijährigen Anime-Pause hat mich Staffel 1 komplett zurückgeholt und in diese Welt gezogen: glaubwürdige Charaktere, nachvollziehbare Entscheidungen, richtig gute Animation. Staffel 2 dagegen schwächelt – vor allem dieses extrem langweilige Schul-Arc (14 Folgen WTF!) hat mich fast gekillt, auch wenn das Ende wieder spannend wurde. Trotzdem so interessant, dass ich (wie sonst nur bei Re:Zero) zum Light Novel gegriffen habe. So ziemlich alle sind sich einig, dass diese Geschichte als Anime-Umsetzung Potenzial hat, sodass Studio Bind extra für diesen Anime gegründet wurde, und es ist schade, dass 90% aller Isekai die guten Zutaten hier ignorieren und nur schlecht kopieren."
+    note: "Einer der stärksten Isekai für mich, auch wenn die Serie ihren Platz hier selbst ein Stück weit verspielt hat. Nach einer zweijährigen Anime-Pause hat mich Staffel 1 komplett zurückgeholt: eine glaubwürdige Welt, starke Animation und Figuren, deren Entwicklung Zeit bekommt. Wer unbedingt einen Hauptcharakter braucht, mit dem er sich identifizieren kann, dürfte gerade am Anfang Probleme haben. Bei manchen scheint es psychologische Gründe dafür zu geben, dass sie sich UNBEDINGT mit dem Hauptcharakter identifizieren können müssen. Für mich muss ein Protagonist aber weder mein Wunschbild sein noch moralisch zu mir passen. Ich kann seine Entwicklung spannend finden, ohne sein Verhalten gutzuheißen – und gerade diese Distanz macht die Figur für mich interessant. Mein größtes Problem liegt woanders: Staffel 2 war über weite Strecken unfassbar langweilig. Der Schul-Arc zieht sich für mich gefühlt endlos, der Entdeckergeist der ersten Staffel geht verloren und selbst die interessanten Ansätze kommen viel zu langsam voran. Irgendwann wollte ich einfach nur wieder raus aus dieser Schule. Das starke Ende rettet einiges, aber dieser lange Durchhänger ist der Hauptgrund, warum der Anime derzeit nur auf Platz 9 steht. Die aktuell laufende dritte Staffel liefert dagegen wieder genau das, was ich hier liebe: Abenteuer, intensive Momente und das Gefühl, in einer riesigen Welt unterwegs zu sein. Mit Turning Point 4 erreicht die Geschichte einen Höhepunkt, der auch für viele Fans zu den stärksten Momenten der gesamten Serie gehört. Mehr will ich dazu gar nicht verraten. Bleibt sie auf diesem Niveau, sind nach Staffel 3 ein paar Plätze nach oben drin. Die Geschichte hat mich trotz der Schwächen so neugierig gemacht, dass ich wie bei Re:Zero zur Light Novel gegriffen habe. Umso ärgerlicher, wie viele andere Isekai nur die Oberfläche solcher Geschichten kopieren."
   },
   {
     place: "8",
@@ -215,8 +215,8 @@ const animeData = [
     genre: "Dark Fantasy",
     studio: "Studio 4°C",
     format: "Filmtrilogie",
-    hook: "Manga-Gate",
-    note: "Ich bin Dark-Fantasy-Fan und Berserk ist Meisterklasse des Genres. Die Story ist brachial gut und extrem einflussreich. Das Eclipse-Event hat unzählige Kopien, was viele wohl gar nicht wissen. Sogar Spiele wie Dark Souls sind sehr von Berserk inspiriert. Die Filme sind ganz okay, aber große Warnung: bitte NICHT die Serie schauen. Ufotable als Studio für eine Anime-Umsetzung wäre ein Traum, den wohl viele haben; ich würde wahrscheinlich tot umfallen. Der Manga ist der einzige, den ich physisch besitze – der Zeichenstil ist so krank gut, dass man fast jede Seite an die Wand hängen könnte. Schade, dass der Manga noch nicht beendet ist (RIP). Wenn man Berserk mag, kann man sich auch Claymore gönnen."
+    hook: "PEAK Dark Fantasy",
+    note: "Berserk ist der beste Vertreter des Dark-Fantasy-Genres. Die absolute Messlatte. Nicht bloß wegen der Gewalt oder der Monster, sondern weil diese Welt gleichzeitig gewaltig, grausam und bedrückend menschlich ist. Ehrgeiz, Freundschaft, Verletzlichkeit und der Wille, irgendwie weiterzumachen, geben der ganzen Härte ihr Gewicht. Zwischen all dem Schrecken gibt es leise, fast zärtliche Momente – und genau dadurch trifft einen die Geschichte so sehr. Der Manga setzt den Maßstab: Der Zeichenstil ist so krank gut, dass man fast jede Seite an die Wand hängen könnte. Es ist bis heute der einzige Manga, den ich physisch besitze. Die drei Golden-Age-Arc-Filme sind ein ziemlich guter Einstieg und für mich insgesamt auch recht gut animiert, selbst wenn die Mischung aus 2D und CGI nicht immer perfekt aufgeht. Atmosphäre, Musik und die großen Szenen transportieren trotzdem viel von dem, was Berserk besonders macht. Der Anime von 2016 ist dagegen für mich eine Katastrophe: steife CGI-Figuren, hölzerne Bewegungen und eine Inszenierung, die dieser Vorlage einfach nicht gerecht wird. So sollte die stärkste Geschichte des Genres wirklich nicht aussehen. Früher hätte ich für eine neue Umsetzung unbedingt ufotable gewollt. Inzwischen ist mir der Name des Studios fast egal – Hauptsache, jemand versteht diese Welt und setzt sie mit der nötigen Sorgfalt um. Eine Umsetzung im Stil von Clevatess wäre zum Beispiel ein absoluter Traum. Diese düstere Bildsprache, die Wucht, das Gefühl von echtem Kino, nur mit Berserk: GOTT, WÄRE DAS GEIL. Bis dahin bleibt der Manga für mich das Herzstück. Dass Kentaro Miura seine Geschichte nicht selbst vollenden konnte, macht mich bis heute traurig."
   },
   {
     place: "5",
@@ -228,9 +228,9 @@ const animeData = [
     year: "2016",
     genre: "Isekai, Drama",
     studio: "White Fox",
-    format: "2 Staffeln (bisher)",
+    format: "4 Staffeln",
     hook: "Return by Death",
-    note: "Aktuell bester Isekai für mich, wenn man nur nach Anime-Umsetzung geht. Bei diesem Anime war ich beim Release von Staffel 1 dabei und habe ihn seitdem verfolgt. Staffel 1 ist im zweiten Arc ein reiner Rage-Bait, weshalb auch viele den Anime damals liegen lassen haben (was für Opfer). Staffel 2 ist sehr viel besser und aktuell mein Favorit. Die zweite Staffel sorgt dafür, dass man so ziemlich alle Charaktere anders wahrnimmt. Auch der Aufbau als großes Mysterium war fantastisch. Den Plot habe ich erst beim dritten Mal richtig kapiert. Es liegt daran, wie hart Return by Death Subaru mental zerlegt: jeder Loop hat Konsequenzen, Beziehungen verändern sich, nichts wird vergessen. Staffel 2 zeigt, wie sehr Subaru an sich arbeitet, statt nur zu sterben und zu resetten. Charaktere fühlen sich glaubwürdig an, Entscheidungen tun weh. Es war der erste Anime, bei dem ich direkt die Light Novel weitergelesen habe, weil ich nach der gelungenen Staffel 3 unbedingt wissen musste, wie es weitergeht."
+    note: "Aktuell bester Isekai für mich, wenn man nur nach Anime-Umsetzung geht. Bei diesem Anime war ich beim Release von Staffel 1 dabei und habe ihn seitdem verfolgt. Staffel 1 ist im dritten Arc ein reiner Rage-Bait, weshalb auch viele den Anime damals liegen lassen haben (was für Opfer). Staffel 2 ist sehr viel besser und zusammen mit Staffel 4 mein Favorit. Die zweite Staffel sorgt dafür, dass man so ziemlich alle Charaktere anders wahrnimmt. Auch der Aufbau als großes Mysterium war fantastisch. Den Plot habe ich erst beim dritten Mal richtig kapiert. Es liegt daran, wie hart Return by Death Subaru mental zerlegt: jeder Loop hat Konsequenzen, Beziehungen verändern sich, nichts wird vergessen. Staffel 2 zeigt, wie sehr Subaru an sich arbeitet, statt nur zu sterben und zu resetten. Charaktere fühlen sich glaubwürdig an, Entscheidungen tun weh. Die aktuelle vierte Staffel gehört zusammen mit Staffel 2 zum Besten, was dieser Anime bisher geliefert hat. Den zugrunde liegenden Arc 6 hatte ich in der Light Novel Gott sei Dank noch nicht gelesen. Mir wurde immer wieder gesagt, dass das der beste Arc sein soll – und bloß gut, dass ich ihn mir für den Anime aufgehoben habe. So konnte ich mehr oder weniger als Anime-only komplett blind reingehen und alles zum ersten Mal erleben. Genau dafür liebe ich Re:Zero: Seit Attack on Titan hat es keine Serie mehr geschafft, mich innerhalb einer Staffel mit so vielen Plottwists und Mysterien zu beschäftigen und gleichzeitig so starke Auflösungen zu liefern. Das wöchentliche Schauen ist wie schon bei Staffel 2 ein Fest – miträtseln, Theorien aufstellen und sich in der nächsten Folge wieder komplett überraschen lassen. Wenn der Anime dieses Niveau hält, wird er künftig wahrscheinlich in meinen Top 3 landen. Es war der erste Anime, bei dem ich direkt die Light Novel weitergelesen habe, weil ich nach der gelungenen Staffel 3 unbedingt wissen musste, wie es weitergeht."
   },
   {
     place: "4",
@@ -244,7 +244,7 @@ const animeData = [
     studio: "Wit Studio & MAPPA",
     format: "4 Staffeln",
     hook: "Dauer-Gänsehaut",
-    note: "Ein Generationen-Anime. Als Staffel 1 kam, liefen massig Leute auf Messen im Aufklärungstrupp-Look herum. Staffel 2 ließ lange auf sich warten und hatte wenige Folgen, aber den legendären Plot-Moment (Shifter-Reveal), der für mich absolutes Highlight ist. Ich war seit Release dabei: Staffel 1 viermal, Staffel 2 dreimal gesehen; jede Folge war ein Event, kein Binge. Reiner bester Charakter :P. Eren wird immer mehr Fascho und sein Plan war für mich absehbar zum Scheitern verurteilt, deshalb hat mich das gespaltene Ende nicht überrascht. Die Welt wird ständig größer, die Mystery hält die Spannung oben, die Parallelen zum NS-Totalitarismus und der Judenverfolgung sind interessant. Musik ist fantastisch – hatte ich früher sogar als Wecker. Schade, dass die Animationsqualität später nachließ, wie es bei vielen Anime der Fall ist (Studio-Wechsel lässt grüßen)."
+    note: "Ein Generationen-Anime. Als Staffel 1 kam, liefen massig Leute auf Messen im Aufklärungstrupp-Look herum. Staffel 2 ließ lange auf sich warten und hatte wenige Folgen, aber einen der stärksten Überraschungsmomente, die ich je in einer Serie erlebt habe. Ich war seit Release dabei: Staffel 1 viermal, Staffel 2 dreimal gesehen; jede Folge war ein Event, kein Binge. Reiner bester Charakter :P. Die moralischen Konflikte werden immer unbequemer, und über das Ende kann man sich wunderbar streiten. Die Welt wird ständig größer, die Mystery hält die Spannung oben, die Parallelen zum NS-Totalitarismus und der Judenverfolgung sind interessant. Musik ist fantastisch – hatte ich früher sogar als Wecker. Schade, dass die Animationsqualität später nachließ, wie es bei vielen Anime der Fall ist (Studio-Wechsel lässt grüßen)."
   },
   {
     place: "3",
@@ -284,13 +284,25 @@ const animeData = [
     year: "2004",
     genre: "Horror, Drama",
     studio: "Arms",
-    format: "13 Episoden + OVA",
+    format: "13 Episoden",
     hook: "Erster Anime ever",
     note: "Dieser ist mein erster Anime, mein Einstiegsmedium. Für viele ist der erste bewusst geschaute Anime auch immer der Beste, und so ist es auch bei mir der Fall. Ein Freund musste mich dazu zwingen, ihn mit sich anzuschauen, weil ich von Anime (generell japanischen Medien) nicht viel gehalten habe und eigentlich viel lieber Call of Duty: Black Ops 2 spielen wollte. Nach viel Überzeugungsarbeit schauten wir ihn uns dann auf Deutsch auf YouTube an (ja, sowas gab es früher auf YouTube als 5-Stunden-Video OHNE Werbung). Aus damaliger Sicht war es unfassbar zu sehen, wie sehr unzensiert eine Serie sein kann, um eine wunderschöne Story zu erzählen. Ich habe ihn bestimmt zwölfmal gesehen; damals direkt vier Tage am Stück hintereinander mit meinem Kumpel zusammen, und daraus wurde ein jährliches Ritual. Ich erinnere mich noch, wie ich wochenlang an nichts anderes denken konnte, als ich in der Schule saß. Er ist brutal und zart zugleich – genau deshalb meine persönliche Nummer 1. So etwas hatte man einfach noch nie gesehen. Die Musik ist unvergleichbar und das Ende lässt einen (zumindest jungen Menschen) als emotionales Nervenbündel zurück."
   }
 ];
 
 const honorableMentionsList = [
+  {
+    title: "Jujutsu Kaisen",
+    note: "Bis Ende Staffel 2 richtig gut, danach wird die Story unverständlich und bodenlos schlecht."
+  },
+  {
+    title: "Dandadan",
+    note: "Aliens, Geister und herrlich überdrehter Wahnsinn. Starker Stil, schräger Humor und tolle Chemie zwischen den Charakteren."
+  },
+  {
+    title: "Hell's Paradise",
+    note: "Eine paradiesische Insel als brutaler Albtraum. Düstere Atmosphäre, groteske Kreaturen und eine schöne Portion Mystery."
+  },
   {
     title: "Sword Art Online",
     note: "Der Hype, der Isekai groß gemacht hat. Aber bitte nur Staffel 1 schauen – und davon eigentlich nur die ersten zwölf Folgen."
